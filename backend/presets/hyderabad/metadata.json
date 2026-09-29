@@ -1,0 +1,15 @@
+{
+  "preset_id": "hyderabad",
+  "name": "Hyderabad",
+  "calibration": {
+    "s": 120.0,
+    "t": 540.0,
+    "depth_inverted": false,
+    "fit_method": "RANSAC (8-GCP affine)"
+  },
+  "metrics": {
+    "r": 0.582,
+    "mae": 7.74,
+    "rmse": 9.85
+  }
+}

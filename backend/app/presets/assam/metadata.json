@@ -1,0 +1,15 @@
+{
+  "preset_id": "assam",
+  "name": "Assam",
+  "calibration": {
+    "s": 40.0,
+    "t": 120.0,
+    "depth_inverted": false,
+    "fit_method": "RANSAC (8-GCP affine)"
+  },
+  "metrics": {
+    "r": 0.384,
+    "mae": 4.2,
+    "rmse": 5.6
+  }
+}

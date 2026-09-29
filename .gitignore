@@ -1,0 +1,30 @@
+# Virtual Environments & Python artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+
+# Node & Build Outputs
+node_modules/
+dist/
+build/
+.cache/
+
+# Large Model Weights & Tensors (Exceeds GitHub limits)
+*.pth
+*.pt
+*.onnx
+*.bin
+*.safetensors
+models/checkpoints/
+checkpoints/
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

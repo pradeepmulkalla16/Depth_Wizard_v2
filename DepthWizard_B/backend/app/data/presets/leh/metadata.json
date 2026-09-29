@@ -1,0 +1,20 @@
+{
+  "preset_id": "leh",
+  "name": "Leh, Ladakh",
+  "description": "Himalayan alpine massif and valley floor (3500m - 5300m AMSL)",
+  "elevation_range": [
+    3500.0,
+    5300.0
+  ],
+  "calibration": {
+    "s": 1800.0,
+    "t": 3500.0,
+    "depth_inverted": false,
+    "fit_method": "RANSAC (8-GCP affine)"
+  },
+  "metrics": {
+    "r": 0.998,
+    "mae": 0.45,
+    "rmse": 0.72
+  }
+}

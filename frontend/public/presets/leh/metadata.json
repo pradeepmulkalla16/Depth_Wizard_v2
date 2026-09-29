@@ -1,0 +1,15 @@
+{
+  "preset_id": "leh",
+  "name": "Leh",
+  "calibration": {
+    "s": 1800.0,
+    "t": 3500.0,
+    "depth_inverted": false,
+    "fit_method": "RANSAC (8-GCP affine)"
+  },
+  "metrics": {
+    "r": 0.4058,
+    "mae": 85.87,
+    "rmse": 110.26
+  }
+}
